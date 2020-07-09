@@ -1,1 +1,1 @@
-This project used Pycharm train dataset that is too huge to upload to github (200 mb), which contains all the train station data for stations from Liverpool to Norwich for the year 2018. If curious for the data, shoot me an email at townerhale@gmail.com. 
+This project used a train dataset that is too huge to upload to github (200 mb), which contains all the train station data for stations from Liverpool to Norwich for the year 2018. If curious for the data, shoot me an email at townerhale@gmail.com. 
